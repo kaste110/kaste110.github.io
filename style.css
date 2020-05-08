@@ -10,3 +10,11 @@ h2 {
 h3 {
 	font-size: 26px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 }
+
+.resume {
+  font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
+	padding: 250px 0;
+	margin: 30px;
+  background-color: coral;
+  background-size: cover;
+}
