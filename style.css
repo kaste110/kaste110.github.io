@@ -1,6 +1,6 @@
 p {
   color: red;
 }
-.verticalLine {
-  border-left: thick solid #ff0000;
+body {
+  margin: 25px 50px 75px 100px;
 }
