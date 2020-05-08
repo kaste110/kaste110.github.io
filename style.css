@@ -19,6 +19,9 @@ h3 {
   background-size: cover;
 }
 
+.education { margin: 0;
+}
+
 hr {
     display: block;
     height: 1px;
