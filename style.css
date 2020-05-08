@@ -1,5 +1,6 @@
 h1 {
-	font-size: 56px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
+	font-size: 56px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black; margin: 0;
+	text-align: center;
 }
 
 h2 {
