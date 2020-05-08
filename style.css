@@ -14,7 +14,7 @@ h3 {
 .resume {
   font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 	padding: 250px 0;
-	margin: 30px;
+	margin: 30px 100px 30px 300px;
   background-color: coral;
   background-size: cover;
 }
