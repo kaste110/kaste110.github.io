@@ -11,6 +11,10 @@ h3 {
 	font-size: 18px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 }
 
+.info {
+	margin-top: 1em;
+}
+
 .resume {
   font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 	padding: 15px 30px 50px 50px;
