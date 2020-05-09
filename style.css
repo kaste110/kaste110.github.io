@@ -23,6 +23,8 @@ h3 {
 	margin: 50px 200px 50px 200px;
   background-color: coral;
   background-size: cover;
+  border-width:8px;  
+    border-style:ridge;
 }
 
 .education { margin: 0;
