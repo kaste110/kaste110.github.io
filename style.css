@@ -22,6 +22,7 @@ h3 {
 	padding: 15px 30px 50px 50px;
 	margin: 50px 200px 50px 200px;
   background-color: #FFDEAD;
+  border-radius: 25px;
   background-size: cover;
   border-width:8px;  
     border-style:ridge;
