@@ -1,14 +1,14 @@
 h1 {
-	font-size: 56px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black; margin: 0;
+	font-size: 50px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black; margin: 0;
 	text-align: center;
 }
 
 h2 {
-	font-size: 36px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
+	font-size: 32px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 }
 
 h3 {
-	font-size: 22px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
+	font-size: 18px; font-family: 'Trebuchet MS', 'Palatino Linotype', serif; color: black;
 }
 
 .resume {
