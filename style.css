@@ -18,8 +18,8 @@ h3 {
 }
 
 body {
-	background-color: #DAA520;
-	opacity: 0.5;
+	background-image: linear-gradient(#FFFFF0, #F8F8FF); 
+	
 }
 
 .resume {
