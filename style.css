@@ -18,7 +18,8 @@ h3 {
 }
 
 body {
-	background-color: #DAA520
+	background-color: #DAA520;
+	opacity: 0.5;
 }
 
 .resume {
